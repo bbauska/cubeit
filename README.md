@@ -1,2 +1,2 @@
 # cubeit
-Display photos in a cube.
+Display photos as a rotating cube.
