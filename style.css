@@ -120,7 +120,6 @@
     transform: translateX(21vw) rotateY(90deg);
 }
 
-
 .cube-1 .right {
     background: url(images/9-9-slide-img-4.jpg) no-repeat 50% 0;
     background-size: cover;
@@ -139,17 +138,18 @@
 .front {
     transform: translateZ(21vw);
 }
-.cube-1 .right {
+
+.cube-1 .front {
     background: url(images/9-9-slide-img-5.jpg) no-repeat 50% 0;
     background-size: cover;
 }
 
-.cube-2 .right {
+.cube-2 .front {
     background: url(images/9-9-slide-img-5.jpg) no-repeat 50% -7vw;
     background-size: cover;
 }
 
-.cube-3 .right {
+.cube-3 .front {
     background: url(images/9-9-slide-img-5.jpg) no-repeat 50% -14vw;
     background-size: cover;
 }
@@ -158,17 +158,17 @@
     transform: translateZ(-21vw) rotateY(180deg);
 }
 
-.cube-1 .right {
+.cube-1 .back {
     background: url(images/9-9-slide-img-6.jpg) no-repeat 50% 0;
     background-size: cover;
 }
 
-.cube-2 .right {
+.cube-2 .back {
     background: url(images/9-9-slide-img-6.jpg) no-repeat 50% -7vw;
     background-size: cover;
 }
 
-.cube-3 .right {
+.cube-3 .back {
     background: url(images/9-9-slide-img-6.jpg) no-repeat 50% -14vw;
     background-size: cover;
 }
@@ -177,17 +177,17 @@
     transform: translateX(-21vw) rotateY(-90deg);
 }
 
-.cube-1 .right {
+.cube-1 .left {
     background: url(images/9-9-slide-img-7.jpg) no-repeat 50% 0;
     background-size: cover;
 }
 
-.cube-2 .right {
+.cube-2 .left {
     background: url(images/9-9-slide-img-7.jpg) no-repeat 50% -7vw;
     background-size: cover;
 }
 
-.cube-3 .right {
+.cube-3 .left {
     background: url(images/9-9-slide-img-7.jpg) no-repeat 50% -14vw;
     background-size: cover;
 }
@@ -215,21 +215,20 @@
     transform: translateZ(21vw);
 }
 
-.cube-1 .right {
+.cube-1 .front {
     background: url(images/9-9-slide-img-9.jpg) no-repeat 50% 0;
     background-size: cover;
 }
 
-.cube-2 .right {
+.cube-2 .front {
     background: url(images/9-9-slide-img-9.jpg) no-repeat 50% -7vw;
     background-size: cover;
 }
 
-.cube-3 .right {
+.cube-3 .front {
     background: url(images/9-9-slide-img-9.jpg) no-repeat 50% -14vw;
     background-size: cover;
 }
-
 
 .back {
     transform: translateZ(-21vw) rotateY(180deg);
