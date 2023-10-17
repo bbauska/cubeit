@@ -52,12 +52,6 @@
 .cube-4 {
     transition: transform .4s;
 }
-.cube-5 {
-    transition: transform .4s;
-}
-.cube-6 {
-    transition: transform .4s;
-}
 
 .face {
     width: 100%;
