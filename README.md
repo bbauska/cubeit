@@ -31,7 +31,7 @@ Display photos as a rotating cube.
 <!-- 'best' readme template -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/bbauska/cubeit/Best-README-Template">
     <img src="images/logo.jpg" alt="Logo under images directory." width="80" height="80">
   </a>
 
