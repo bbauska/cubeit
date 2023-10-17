@@ -49,9 +49,6 @@
 .cube-3 {
     transition: transform .4s .4s;
 }
-.cube-4 {
-    transition: transform .4s;
-}
 
 .face {
     width: 100%;
@@ -132,10 +129,6 @@
 .cube-3 .right {
     background: url(images/9-9-slide-img-4.jpg) no-repeat 50% -14vw;
     background-size: cover;
-}
-
-.front {
-    transform: translateZ(21vw);
 }
 
 .top {
