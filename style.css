@@ -42,14 +42,21 @@
 .cube-1 {
     transition: transform .4s;
 }
-
 .cube-2 {
     z-index: 10;
     transition: transform .4s .2s;
 }
-
 .cube-3 {
     transition: transform .4s .4s;
+}
+.cube-4 {
+    transition: transform .4s;
+}
+.cube-5 {
+    transition: transform .4s;
+}
+.cube-6 {
+    transition: transform .4s;
 }
 
 .face {
@@ -66,12 +73,10 @@
     background: url(images/9-9-slide-img-1.jpg) no-repeat 50% 0;
     background-size: cover;
 }
-
 .cube-2 .front {
     background: url(images/9-9-slide-img-1.jpg) no-repeat 50% -7vw;
     background-size: cover;
 }
-
 .cube-3 .front {
     background: url(images/9-9-slide-img-1.jpg) no-repeat 50% -14vw;
     background-size: cover;
