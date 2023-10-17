@@ -138,11 +138,6 @@
     transform: translateZ(21vw);
 }
 
-.cube-3 .back {
-    background: url(images/9-9-slide-img-10.jpg) no-repeat 50% -14vw;
-    background-size: cover;
-}
-
 .top {
     height: 42vw;
     background-color: #111;
