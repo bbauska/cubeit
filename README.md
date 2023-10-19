@@ -34,6 +34,7 @@ Display photos as a rotating cube.
   <a href="https://github.com/bbauska/cubeit/Best-README-Template">
     <img src="images/logo.jpg" alt="Logo under images directory." width="80" height="80">
   </a>
+</div>
 
 <h3 style="text-align:center">Best-README-Template</h3>
   
