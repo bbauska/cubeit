@@ -102,17 +102,17 @@
 
 
 .cube-1 .left {
-    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-3.jpg") no-repeat 50% 0;
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-3.jpg?raw=true") no-repeat 50% 0;
     background-size: cover;
 }
 
 .cube-2 .left {
-    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-3.jpg") no-repeat 50% -7vw;
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-3.jpg?raw=true") no-repeat 50% -7vw;
     background-size: cover;
 }
 
 .cube-3 .left {
-    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-3.jpg") no-repeat 50% -14vw;
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-3.jpg?raw=true") no-repeat 50% -14vw;
     background-size: cover;
 }
 
@@ -122,17 +122,17 @@
 
 
 .cube-1 .right {
-    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-4.jpg") no-repeat 50% 0;
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-4.jpg?raw=true") no-repeat 50% 0;
     background-size: cover;
 }
 
 .cube-2 .right {
-    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-4.jpg") no-repeat 50% -7vw;
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-4.jpg?raw=true") no-repeat 50% -7vw;
     background-size: cover;
 }
 
 .cube-3 .right {
-    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-4.jpg") no-repeat 50% -14vw;
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-4.jpg?raw=true") no-repeat 50% -14vw;
     background-size: cover;
 }
 
