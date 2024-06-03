@@ -197,7 +197,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Brian Bauska- [@bbauska](https://twitter.com/bbauska) - brianbausk@gmail.com
 
-Project Link: [https://github.com/bbauska/cubeit]
+Project Link: [cubeit readme](https://github.com/bbauska/cubeit)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
