@@ -173,6 +173,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
+    - [ ] French
+    - [ ] Latvian
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a 
 full list of proposed features (and known issues).
@@ -187,7 +189,7 @@ inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create 
 a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Please give this project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
